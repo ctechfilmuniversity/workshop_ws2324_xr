@@ -53,6 +53,8 @@ LUNCH
 - Troubleshooting with practice exercises, troubleshooting with VR/AR software installation
 - Preparing Unity/Unreal scene for VR/AR development
 
+LUNCH
+
 *Topics in VR* (1.5 Hours)
 
 - Overview of VR design criteria - what are the important criteria to keep in mind when designing for VR? How do design criteria change with audience? How does VR challenge design criteria for other media?
@@ -76,7 +78,7 @@ LUNCH
 
 *Day 4*
 
-*Project Work - Iteration and Finishing*
+*Project Work - Iteration and Finishing* (3 Hours)
 
 - Finish development of prototype, testing with other course participants, ideas for further development and learning
 
