@@ -33,7 +33,7 @@ In this course we will begin to look into XR technologies and the real-time engi
 
 *Homework*: Install game engine and necessary supporting software
 
-*Session 3: Game Engines* (3 SWS)
+*Session 3: Game Engines* (3 SWS) - For beginners with little or no game engine experience
 
 - Overview of game engine architecture - what are the main components of a game engine? How do they come together?
 - Interface tour of Unity/Unreal and overview of the important components - asset creation and import, setting up a scene, script creation, engine settings, plugins and packaging
