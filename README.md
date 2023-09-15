@@ -22,7 +22,7 @@ In this course we will begin to look into XR technologies and the real-time engi
 
 *Course preparation*: Install game engine and necessary supporting software
 
-***Day 1***
+***Day 1 (27.10)***
 
 *Introduction to Real Time*
 
@@ -45,7 +45,7 @@ LUNCH
 
 *Homework*: Install necessary software for VR/AR development
 
-***Day 2***
+***Day 2 (03.11)***
 
 *Game Engines*
 
@@ -61,7 +61,7 @@ LUNCH
 
 *Homework*: Design/Storyboard/Wireframe VR or AR experience
 
-***Day 3***
+***Day 3 (10.11)***
 
 *Project Work - Concept and Prototyping* (3 Hours)
 
@@ -69,7 +69,7 @@ LUNCH
 
 *Homework*: Spend 4-6 hours working on the prototype
 
-***Day 4***
+***Day 4 (01.12)***
 
 *Project Work - Iteration and Finishing* (3 Hours)
 
