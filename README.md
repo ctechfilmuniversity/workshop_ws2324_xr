@@ -2,7 +2,7 @@
 
 **Syllabus**
 
-In this course we will begin to look into XR technologies and the real-time engines that underpin them. Students will gain an overview of these technologies, their history and use in the creative disciplines. We will consider in detail some design criteria for VR and AR, as well as appropriate technologies and workflows, through looking at and critique of case studies from the fields of art, games, immersive experiences and apps. On the technical side, students will gain hands-on experience with a game engine (Unity or Unreal) and be asked to create a VR or AR prototype in response to a given theme/topic.
+In this course we will begin to look into XR technologies and the real-time engines that underpin them. Students will gain an overview of these technologies, their history and use in the creative disciplines. We will consider in detail some design criteria for VR and AR, as well as appropriate technologies and workflows, through looking at and critique of case studies from the fields of art, games, immersive experiences and apps. On the technical side, students will gain hands-on experience with a game engine (Unity) and be asked to create a VR or AR prototype in response to a given theme/topic.
 
 **Learning Objectives**
 
