@@ -77,4 +77,4 @@ LUNCH
 
 **Evaluation**
 
-Evaluation will be based on the personal projects undertaken in Sessions 6 + 7 and for homework. These projects must be submitted both as an .apk (Oculus Quest, Android)/.exe (Oculus Rift, HTC Vive)/.ipa (iPhone/iPad) as well as narrated video walkthroughs.
+Evaluation will be based on the personal projects undertaken in Days 3 + 4 and for homework. These projects must be submitted both as an .apk (Oculus Quest, Android)/.exe (Oculus Rift, HTC Vive)/.ipa (iPhone/iPad) and as video walkthrough/demo.
