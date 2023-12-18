@@ -1,4 +1,4 @@
-**Submission**
+**Submission of work**
 
 Please create a new folder and upload the following:
 
